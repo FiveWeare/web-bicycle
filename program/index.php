@@ -17,7 +17,7 @@
 
   </head>
 
-      <body  background="../web-bicycle/pict/bicycle.gif">
+      <body  background="../../web-bicycle/pict/bicycle.gif">
 			<center>
 
 		<?php

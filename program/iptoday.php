@@ -7,7 +7,7 @@
 	</head>
 
 
-	<body  background="../web-bicycle/pict/neko.jpg" >
+	<body  background="../../web-bicycle/pict/neko.jpg" >
 
 
 
@@ -117,19 +117,19 @@
 		<form>
 			<div style="float:left;">
 				<h2>メーカー<br /></h2>
-				<input type="submit" value="ホンダ" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../web-bicycle/pict/honda.jpg'); "/><br /><br />
-				<input type="submit" value="ヤマハ" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../web-bicycle/pict/YAMAHA.jpg');"/><br /><br />
-				<input type="submit" value="スズキ" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../web-bicycle/pict/SUZUKI.jpg');"/><br /><br />
-				<input type="submit" value="カワサキ" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../web-bicycle/pict/Kawasaki.jpg');"/><br /><br />
-				<input type="submit" value="ハーレーダビッドソン" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../web-bicycle/pict/HARLEY-DAVIDSON.jpg');"/><br /><br />
-				<input type="submit" value="ドゥカティ" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../web-bicycle/pict/DUCATI.jpg');"/><br /><br />
-				<input type="submit" value="ビーエムダブリュー" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../web-bicycle/pict/ＢＭＷ.jpg');"/>
+				<input type="submit" value="ホンダ" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../../web-bicycle/pict/honda.jpg'); "/><br /><br />
+				<input type="submit" value="ヤマハ" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../../web-bicycle/pict/YAMAHA.jpg');"/><br /><br />
+				<input type="submit" value="スズキ" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../../web-bicycle/pict/SUZUKI.jpg');"/><br /><br />
+				<input type="submit" value="カワサキ" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../../web-bicycle/pict/Kawasaki.jpg');"/><br /><br />
+				<input type="submit" value="ハーレーダビッドソン" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../../web-bicycle/pict/HARLEY-DAVIDSON.jpg');"/><br /><br />
+				<input type="submit" value="ドゥカティ" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../../web-bicycle/pict/DUCATI.jpg');"/><br /><br />
+				<input type="submit" value="ビーエムダブリュー" name="" style="WIDTH: 350px; HEIGHT: 100px; font-size:30px; background-image: url('../../web-bicycle/pict/ＢＭＷ.jpg');"/>
 			</div>
 		</form>
 
 
 		<div style="float:light;">
-			<img src="../web-bicycle/pict/sample2.jpg" width="1000" height="1000" hspace="80"/>
+			<img src="../../web-bicycle/pict/sample2.jpg" width="1000" height="1000" hspace="80"/>
 		</div>
 
 		<div style="clear:both;"></div>
